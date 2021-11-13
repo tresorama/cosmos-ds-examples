@@ -1,0 +1,1 @@
+In real world production app, this folder WILL NOT EXISTS, but instead the tokens are imported from "cosmos-design-tokens".

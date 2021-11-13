@@ -1,0 +1,23 @@
+@import "../../cosmos-design-tokens/tokens.scss";
+//
+// VERIFICATION STATUS
+//
+
+$verification-status-size-md: $token-icon-size-md;
+
+.csms-verification-status {
+  color: $token-colour-product-verification;
+}
+
+//
+// SIZES
+//
+
+.csms-verification-status--sm {
+  width: 10px;
+  height: 10px;
+}
+.csms-verification-status--md {
+  width: $verification-status-size-md;
+  height: $verification-status-size-md;
+}
